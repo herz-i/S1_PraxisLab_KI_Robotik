@@ -10,7 +10,7 @@ port = '/dev/tty.usbserial-575E0787521'
 
 # Wichtig! Das Format muss gleich bleiben, ersetze nur die 0 mit deinen Winkeln!
 
-punkt_ablegen = [40, -35, -75, 23, 0, 0]             # Ablageposition über der Box in Gelenkwinkeln
+punkt_ablegen = [0, 0, 0, 0, 0, 0]                   # Ablageposition über der Box in Gelenkwinkeln
 
 #######################################################################################
 ### Versuche hier die Geschwindigkeit und die Anzahl der Wiederholungen zu ändern.  ###
@@ -18,7 +18,7 @@ punkt_ablegen = [40, -35, -75, 23, 0, 0]             # Ablageposition über der 
 
 # Trage hier deinen Modellnamen ein. Die Datei muss im selben Verzeichnis wie dieses Skript liegen!
 
-vision_modell = 'models/newWood6.pt'                 # 'modellname.pt'
+vision_modell = 'beispielmodell.pt'                  # 'modellname.pt'
 
 #######################################################################################
 ### Ändere ab hier nichts mehr! Ansonsten funktioniert dein Programm danach nicht!  ###
