@@ -1,0 +1,6 @@
+# todo: add version numbers
+opencv-python
+ultralytics
+depthai
+pymycobot
+scipy
