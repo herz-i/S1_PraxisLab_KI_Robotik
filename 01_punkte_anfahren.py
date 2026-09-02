@@ -8,9 +8,9 @@ port = '/dev/tty.usbserial-588D0017891'
 ### Trage hier deine abgelesenen Punkte ein.                                        ###
 #######################################################################################
 
-punkt_A = [20,20,20,20,20,20]       # Wichtig! Das Format muss gleich bleiben, ersetze nur die 0 mit deinen Winkeln!
+punkt_A = [0, 0, 0, 0, 0, 0]            # Wichtig! Das Format muss gleich bleiben, ersetze nur die 0 mit deinen Winkeln!
 
-punkt_B = [10,10,10,10,10,10]       # [J1, J2, J3, J4, J5, J6]
+punkt_B = [0, 0, 0, 0, 0, 0]            # [J1, J2, J3, J4, J5, J6]
 
 #######################################################################################
 ### Versuche hier die Geschwindigkeit und die Anzahl der Wiederholungen zu ändern.  ###
