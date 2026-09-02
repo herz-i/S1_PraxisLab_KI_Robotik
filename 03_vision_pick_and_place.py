@@ -42,7 +42,6 @@ time.sleep(5)
 
 # Get objects from picture frame and return objects with world coordinates
 color_image = camera.get_image()
-#objects = get_object_centers(color_image, "models/newWood6.pt")
 objects = get_object_centers(color_image, vision_modell)
 
 print(objects)
