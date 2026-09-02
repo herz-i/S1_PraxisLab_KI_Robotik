@@ -18,5 +18,5 @@ pip install -r requirements.txt
 
 5. Follow instructions to use prepared scripts according to **Anleitung_myCobot.pdf**
 
-Finanziert von der Europäischen Union
+![Finanziert von der Europäischen Union](/assets/DE-EU-finanziert.png)
 
