@@ -2,7 +2,7 @@
 ### Trage hier den Port aus myBlockly ein.                                          ###
 #######################################################################################
 
-port = '/dev/tty.usbserial-588D0017891'
+port = '/dev/tty.usbserial-588D0017891'     
 
 #######################################################################################
 ### Trage hier deine abgelesenen Punkte ein.                                        ###
