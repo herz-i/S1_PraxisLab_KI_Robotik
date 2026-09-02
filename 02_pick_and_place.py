@@ -10,11 +10,11 @@ port = '/dev/tty.usbserial-588D0017891'
 
 # Wichtig! Das Format muss gleich bleiben, ersetze nur die 0 mit deinen Winkeln!
 
-punkt_aufheben = [-37.44, -84.81, 1.23, -5.27, -0.79, -80.33]           # Punkt 1
+punkt_aufheben = [0, 0, 0, 0, 0, 0]                     # Punkt 1
 
-vorposition_aufheben = [-37.0, -56.77, 1.23, -32.08, -2.02, -75.58]     # Punkt 2
+vorposition_aufheben = [0, 0, 0, 0, 0, 0]               # Punkt 2
 
-punkt_ablegen = [9.14, -77.43, 2.72, -18.28, -2.54, -31.99]             # Punkt 3
+punkt_ablegen = [0, 0, 0, 0, 0, 0]                      # Punkt 3
 
 #######################################################################################
 ### Versuche hier die Geschwindigkeit und die Anzahl der Wiederholungen zu ändern.  ###
